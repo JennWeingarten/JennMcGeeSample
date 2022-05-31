@@ -1,4 +1,4 @@
-package com.example.mcgeesample.ui.theme
+package com.example.mcgeesample.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
